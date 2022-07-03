@@ -1,0 +1,64 @@
+{
+    "data" : [
+        {
+          
+            "network": "max",
+            
+            "max_ban": "b22a98d12436cf29",
+            "max_int": "f7cd9efeee4f8536",
+            
+            "is_app_key": "154b0d031",
+            "is_ban": "DefaultBanner",
+            "is_int": "DefaultInterstitial",
+            
+            "admob_ban": "ca-app-pub-3940256099942544/6300978111",
+            "admob_int": "ca-app-pub-3940256099942544/1033173712",
+
+            "name": "Blackpink",
+            "photo": "https://i.postimg.cc/htTYR4hq/29efed9bb60a6abfe1826bdf64fc3725.jpg",
+            "voice": "https://ringy9.github.io/Blackpink/voice.mp4",
+            "video": "https://ringy9.github.io/Blackpink/bp_jisoo_v3.mp4",
+            "stories": [
+               "https://i.postimg.cc/fyPPDJxM/08c69e49ff1918e1c52547c13f39f411.jpg",
+"https://i.postimg.cc/HxBKvSnc/0f3ac2484a9e9c3909514a6b838d30eb.jpg",
+"https://i.postimg.cc/RV38GLBh/1bec97eb0369cd55e183c893b7ebf310.jpg",
+"https://i.postimg.cc/htTYR4hq/29efed9bb60a6abfe1826bdf64fc3725.jpg",
+"https://i.postimg.cc/05XFpHhh/32fc940e4abd5c38a1d10bcd6485a787.jpg",
+"https://i.postimg.cc/9M88Yrgy/55e9701de91ffd3b16e1f0e70f56fbbc.jpg",
+"https://i.postimg.cc/N0xPLN1J/682f2a712321813abee382c826a90fd7.jpg",
+"https://i.postimg.cc/CLW22nhN/6be238df92c3ed39677d4bc2c86c15ad.jpg",
+"https://i.postimg.cc/HxsvMQzp/815e917c27bab7e6585f40b56b5fae0f.jpg",
+"https://i.postimg.cc/Bv3VSW1P/8bbd5af36c28d8e6ade2c4b13bda0ad0.jpg",
+"https://i.postimg.cc/2SRHGpG9/9505850fac74c57d57f8d031456cb059.jpg",
+"https://i.postimg.cc/Y00P51LX/9fa171f74ac598a1cdac212a2f4586d3.jpg",
+"https://i.postimg.cc/kGLTLLm4/c56e94731e697002be4838e5c5823388.jpg",
+"https://i.postimg.cc/qBFDt63T/cfc916e942abc9cfcfd27455f21c3dd1.jpg",
+"https://i.postimg.cc/wTsfDxXs/d3fc4d248adb47ca00f257efc66fb6ec.jpg",
+"https://i.postimg.cc/6QBMsdDd/dbf9de9895cc50fa9c87c7b179c68921.jpg",
+"https://i.postimg.cc/qqNmb4WS/e56f97f94ce15f7b14d8c36b5b0c72cc.jpg",
+"https://i.postimg.cc/XYfsD2Dj/ff163c4ce9d2a2a9a16f2dfeceb96dec.jpg"
+            ],
+            "wallpapers": [
+               "https://i.postimg.cc/fyPPDJxM/08c69e49ff1918e1c52547c13f39f411.jpg",
+"https://i.postimg.cc/HxBKvSnc/0f3ac2484a9e9c3909514a6b838d30eb.jpg",
+"https://i.postimg.cc/RV38GLBh/1bec97eb0369cd55e183c893b7ebf310.jpg",
+"https://i.postimg.cc/htTYR4hq/29efed9bb60a6abfe1826bdf64fc3725.jpg",
+"https://i.postimg.cc/05XFpHhh/32fc940e4abd5c38a1d10bcd6485a787.jpg",
+"https://i.postimg.cc/9M88Yrgy/55e9701de91ffd3b16e1f0e70f56fbbc.jpg",
+"https://i.postimg.cc/N0xPLN1J/682f2a712321813abee382c826a90fd7.jpg",
+"https://i.postimg.cc/CLW22nhN/6be238df92c3ed39677d4bc2c86c15ad.jpg",
+"https://i.postimg.cc/HxsvMQzp/815e917c27bab7e6585f40b56b5fae0f.jpg",
+"https://i.postimg.cc/Bv3VSW1P/8bbd5af36c28d8e6ade2c4b13bda0ad0.jpg",
+"https://i.postimg.cc/2SRHGpG9/9505850fac74c57d57f8d031456cb059.jpg",
+"https://i.postimg.cc/Y00P51LX/9fa171f74ac598a1cdac212a2f4586d3.jpg",
+"https://i.postimg.cc/kGLTLLm4/c56e94731e697002be4838e5c5823388.jpg",
+"https://i.postimg.cc/qBFDt63T/cfc916e942abc9cfcfd27455f21c3dd1.jpg",
+"https://i.postimg.cc/wTsfDxXs/d3fc4d248adb47ca00f257efc66fb6ec.jpg",
+"https://i.postimg.cc/6QBMsdDd/dbf9de9895cc50fa9c87c7b179c68921.jpg",
+"https://i.postimg.cc/qqNmb4WS/e56f97f94ce15f7b14d8c36b5b0c72cc.jpg",
+"https://i.postimg.cc/XYfsD2Dj/ff163c4ce9d2a2a9a16f2dfeceb96dec.jpg"
+            ]
+          
+        }
+    ]
+}
