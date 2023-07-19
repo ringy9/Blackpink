@@ -2,13 +2,13 @@
   "data": [
     {
       "available_network": "admob--max--unity--is",
-      "network": "admob",
-      "max_ban": "41520d44e3d06b49",
-      "max_int": "261588b3776ba31b",
+      "network": "max",
+      "max_ban": "3bf91cba2ce1b14e",
+      "max_int": "d1251d3a4de2cbda",
       "is_app_key": "2386892364823",
       "is_ban": "2386892364823",
       "is_int": "2386892364823",
-      "max_native": "2386892364823",
+      "max_native": "e2f9aecf5b6b61cb",
       "admob_ban": "ca-app-pub-3940256099942544/6300978111",
       "admob_int": "ca-app-pub-3940256099942544/1033173712",
       "admob_native": "ca-app-pub-3940256099942544/6300978111",
