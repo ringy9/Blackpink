@@ -2,7 +2,7 @@
   "data": [
     {
       "available_network": "admob--max--unity--is",
-      "network": "max",
+      "network": "unity",
       "max_ban": "e821b46db7d3e59f",
       "max_int": "99950749eeb86173",
       "is_app_key": "1ae5ff085",
