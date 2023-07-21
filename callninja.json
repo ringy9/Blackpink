@@ -2,9 +2,9 @@
   "monetizationProvider": {
     "SelectedAd": "unity",
     "admob": {
-      "Banner": "ca-app-pub-3940256099942544/6300978111",
-      "Inter": "ca-app-pub-3940256099942544/1033173712",
-      "Native": "ca-app-pub-3940256099942544/2247696110"
+      "Banner": "ca-app-pub-4693715157350667/3809664445",
+      "Inter": "ca-app-pub-4693715157350667/8870419433",
+      "Native": "ca-app-pub-4693715157350667/6184029428"
     },
     "ad_manager": {
       "Banner": "/6499/example/banner",
