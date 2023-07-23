@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/6174105342",
+      "admob_int": "ca-app-pub-4693715157350667/9654185353",
+      "admob_native": "ca-app-pub-4693715157350667/2234860334",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "Rafa And Luiz",
+      "photo": "https://i.postimg.cc/Y0vFsthY/channels4-profile.jpg",
+      "voice": "https://ringy9.github.io/Blackpink/RafaLuiz/RafaLuiz.mp3",
+      "video": "https://ringy9.github.io/Blackpink/RafaLuiz/RafaLuiz.mp4",
+      "stories": [
+        "https://i.postimg.cc/vZfry8Xv/0bdde8b90cf012fe605034275786c17d.jpg",
+        "https://i.postimg.cc/LsSz8dbF/0d39c51c525c9f6eabee84a73df6e52f.jpg",
+        "https://i.postimg.cc/50NL8BJP/72c9f84d83b0028ade7c72c08684a077.jpg",
+        "https://i.postimg.cc/pXn8QXNt/797ba4809cde822a7d1a276d1abeb6b1.jpg",
+        "https://i.postimg.cc/pdBK90wh/977003713e8e70f1175c658dd7ab3b94.jpg",
+        "https://i.postimg.cc/Y0vFsthY/channels4-profile.jpg",
+        "https://i.postimg.cc/5yDzcDCG/d7ab792e-a442-47de-bbb4-17cc488357c9-900-900.jpg",
+        "https://i.postimg.cc/MTPR5nKz/dc999a51-b805-4991-9f23-af56a2f8a6b8-1.png",
+        "https://i.postimg.cc/ZYQpyvMc/E2m-SObw-Xo-AQAODH.jpg",
+        "https://i.postimg.cc/RZ5tg59J/rafa-e-luiz-youtubers-bgs.jpg"
+        
+        
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/vZfry8Xv/0bdde8b90cf012fe605034275786c17d.jpg",
+        "https://i.postimg.cc/LsSz8dbF/0d39c51c525c9f6eabee84a73df6e52f.jpg",
+        "https://i.postimg.cc/50NL8BJP/72c9f84d83b0028ade7c72c08684a077.jpg",
+        "https://i.postimg.cc/pXn8QXNt/797ba4809cde822a7d1a276d1abeb6b1.jpg",
+        "https://i.postimg.cc/pdBK90wh/977003713e8e70f1175c658dd7ab3b94.jpg",
+        "https://i.postimg.cc/Y0vFsthY/channels4-profile.jpg",
+        "https://i.postimg.cc/5yDzcDCG/d7ab792e-a442-47de-bbb4-17cc488357c9-900-900.jpg",
+        "https://i.postimg.cc/MTPR5nKz/dc999a51-b805-4991-9f23-af56a2f8a6b8-1.png",
+        "https://i.postimg.cc/ZYQpyvMc/E2m-SObw-Xo-AQAODH.jpg",
+        "https://i.postimg.cc/RZ5tg59J/rafa-e-luiz-youtubers-bgs.jpg"
+        
+        
+      ]
+    }
+  ]
+}
