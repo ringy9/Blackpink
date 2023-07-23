@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "available_network": "admob--max--unity--is",
+      "network": "admob",
+      "max_ban": "258376b2c40dc0c5",
+      "max_int": "8912645efd4cfdff",
+      "is_app_key": "1ae5ff085",
+      "is_ban": "DefaultBanner",
+      "is_int": "DefaultInterstitial",
+      "max_native": "bf2050ac9a26591b",
+      "admob_ban": "ca-app-pub-4693715157350667/3046746107",
+      "admob_int": "ca-app-pub-4693715157350667/2547218501",
+      "admob_native": "ca-app-pub-4693715157350667/9476476980",
+      "unity_id": "5353044",
+      "unity_banner": "Android_Banner",
+      "unity_inter": "Android_Interstitial",
+      "name": "Grimace Shake",
+      "photo": "https://i.postimg.cc/B6YMjkJm/Grimace-Shake-Photo-courtesy-of-Mc-Donalds.jpg",
+      "voice": "https://ringy9.github.io/Blackpink/Grimace/Grimace.mp3",
+      "video": "https://ringy9.github.io/Blackpink/Grimace/Grimace.mp4",
+      "stories": [
+        "https://i.postimg.cc/nh424CHj/1528983876814-grimace-riding-ronald-v3.webp",
+        "https://i.postimg.cc/BnHYmmCv/2b56434426eebee9304d173ab8750c61.jpg",
+        "https://i.postimg.cc/VvJ4ng6m/2c3cae09cd19e9c9d39fca3193fb88f4.jpg",
+        "https://i.postimg.cc/gc7gdCSJ/649ed84e6e35e9001af913a6.webp",
+        "https://i.postimg.cc/7Z8XJgyr/c5e1fea4395909b4b8402bd0a7ec80e0d12405bf710045f539c04b13714d7bf1-1.jpg",
+        "https://i.postimg.cc/B6YMjkJm/Grimace-Shake-Photo-courtesy-of-Mc-Donalds.jpg",
+        "https://i.postimg.cc/1zyHJstW/mcdonalds-purple-grimace-shake-zz-230605-6608ec.jpg",
+        "https://i.postimg.cc/Kzv0vxhK/n279111.gif",
+        "https://i.postimg.cc/SRHdr928/screen-0.webp",
+        "https://i.postimg.cc/rsRCKpnp/tmp-y-Io-CYP-0c90db3cae763511-Getty-Images-1287906784.webp"
+      ],
+      "wallpapers": [
+        "https://i.postimg.cc/nh424CHj/1528983876814-grimace-riding-ronald-v3.webp",
+        "https://i.postimg.cc/BnHYmmCv/2b56434426eebee9304d173ab8750c61.jpg",
+        "https://i.postimg.cc/VvJ4ng6m/2c3cae09cd19e9c9d39fca3193fb88f4.jpg",
+        "https://i.postimg.cc/gc7gdCSJ/649ed84e6e35e9001af913a6.webp",
+        "https://i.postimg.cc/7Z8XJgyr/c5e1fea4395909b4b8402bd0a7ec80e0d12405bf710045f539c04b13714d7bf1-1.jpg",
+        "https://i.postimg.cc/B6YMjkJm/Grimace-Shake-Photo-courtesy-of-Mc-Donalds.jpg",
+        "https://i.postimg.cc/1zyHJstW/mcdonalds-purple-grimace-shake-zz-230605-6608ec.jpg",
+        "https://i.postimg.cc/Kzv0vxhK/n279111.gif",
+        "https://i.postimg.cc/SRHdr928/screen-0.webp",
+        "https://i.postimg.cc/rsRCKpnp/tmp-y-Io-CYP-0c90db3cae763511-Getty-Images-1287906784.webp"
+      ]
+    }
+  ]
+}
