@@ -1,6 +1,6 @@
 {
   "monetizationProvider": {
-    "SelectedAd": "applovin",
+    "SelectedAd": "no",
     "admob": {
       "Banner": "ca-app-pub-4693715157350667/3809664445",
       "Inter": "ca-app-pub-4693715157350667/8870419433",
