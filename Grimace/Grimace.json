@@ -2,10 +2,10 @@
   "data": [
     {
       "available_network": "admob--max--unity--is",
-      "network": "unity",
+      "network": "is",
       "max_ban": "258376b2c40dc0c5",
       "max_int": "8912645efd4cfdff",
-      "is_app_key": "1ae5ff085",
+      "is_app_key": "1b48c4045",
       "is_ban": "DefaultBanner",
       "is_int": "DefaultInterstitial",
       "max_native": "bf2050ac9a26591b",
